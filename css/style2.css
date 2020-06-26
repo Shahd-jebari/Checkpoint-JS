@@ -1,0 +1,44 @@
+h2{
+    font-family:'Times New Roman';
+    font-size: xx-large;
+    text-size-adjust: 20px;
+    color:navy;
+    padding-bottom: 40px;
+}
+body{
+    background-color:floralwhite;
+    margin:40px;
+}
+.all{
+    padding:40px;
+    justify-content:center;
+    font-family: sans-serif;
+}
+.gray{
+    background-color: rgb(154, 169, 164);
+    color: black;
+    padding: 30px;
+    display:flex;
+    justify-content: center;
+    text-align: start;
+    font-family: sans-serif;
+}
+.black{
+    background-color: black;
+    color: white;
+    padding:30px;
+    display:flex;
+    justify-content: center;
+    text-align: start;
+    font-family: sans-serif;
+}
+.subtitle{
+    font-weight: bolder;
+    color:black;
+    font-family: sans-serif;
+}
+.sub2{
+    font-weight: bolder;
+    color:white;
+    font-family: sans-serif;
+}
